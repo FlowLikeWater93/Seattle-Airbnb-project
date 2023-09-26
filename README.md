@@ -16,6 +16,81 @@ Q3) Can we predict If a new host has the poteintial to be a superhost from the l
 <br>
 
 ## Installations
+In order to clone the project files and run them on your machine, a number of packages and libraries must be installed 
+<br><br>
+**1- python 3.3 or higher**
+<br><br>
+**2- Pandas**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install -c conda-forge pandas
+# or PyPI
+pip install pandas
+```
+<br>
+
+**3- Numpy**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install -c anaconda numpy
+# or PyPI
+pip install numpy
+```
+<br>
+
+**4- scikit-learn**
+<br>
+  To install 
+<br>
+```
+# conda
+conda create -n sklearn-env -c conda-forge scikit-learn
+# or PyPI
+pip3 install -U scikit-learn
+```
+<br>
+
+**5- matplotlib**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install -c conda-forge matplotlib
+# or PyPI
+pip install -U matplotlib
+```
+<br>
+
+**6- seaborn**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install seaborn
+# or PyPI
+pip install seaborn
+```
+<br>
+
+**7- seaborn**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install seaborn
+# or PyPI
+pip install seaborn
+```
+<br>
 
 3- files description
 4- how to interact with the project 
