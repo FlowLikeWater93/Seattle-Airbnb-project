@@ -135,14 +135,24 @@ both files serve the same purpose. So, pick whatever you are comfortable with
 <br>
 **seattle_airbnb.py**
 <br>
-Move the file inside a python project directory. run file
+Move the file inside a python project directory
+<br>
+run the file
 <br>
 **seattle_airbnb_2016.ipynb**
 <br>
 Move the notebook to a python project directory
-<br>
-run the command : jupyter notebook
 <br><br>
+run the command : jupyter notebook in the command line 
+<br><br>
+**listings.csv**
+<br>
+**reviews.csv**
+<br>
+**calendar.csv**
+<br>
 
-## Project files
-This repository contains two files, a jupyter notebook and a python file
+## Acknowledgements
+<a href="https://scikit-learn.org/stable/modules/svm.html">Support vector machines (SVMs)</a>
+<br>
+<a href="https://www.airbnb.com/e/superhost">Superhost: Recognizing the best in hospitality</a>
