@@ -116,8 +116,33 @@ pip install scipy
 ```
 <br>
 
+**10- Jupyter (optional If you want to run the attached notebook)**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install -c anaconda jupyter
+# or PyPI
+pip install notebook
+```
+<br>
+
 ## Project files
-In order to clone the project files and run them on your machine, a number of packages and libraries must be installed 
+This repository contains two files, a jupyter notebook and a python file
 <br><br>
-4- how to interact with the project 
-5- Licensing, Authors, Acknowledgements, etc.
+both files serve the same purpose. So, pick whatever you are comfortable with 
+<br>
+**seattle_airbnb.py**
+<br>
+Move the file inside a python project directory. run file
+<br>
+**seattle_airbnb_2016.ipynb**
+<br>
+Move the notebook to a python project directory
+<br>
+run the command : jupyter notebook
+<br><br>
+
+## Project files
+This repository contains two files, a jupyter notebook and a python file
