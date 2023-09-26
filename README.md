@@ -133,7 +133,7 @@ This repository contains two files, a jupyter notebook and a python file
 <br><br>
 both files serve the same purpose. So, pick whatever you are comfortable with 
 <br>
-**seattle_airbnb.py**
+**seattle_airbnb_2016.py**
 <br>
 Move the file inside a python project directory
 <br>
