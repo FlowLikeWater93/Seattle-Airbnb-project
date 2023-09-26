@@ -92,6 +92,32 @@ pip install seaborn
 ```
 <br>
 
-3- files description
+**8- regex**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install -c conda-forge regex
+# or PyPI
+pip install regex
+```
+<br>
+
+**9- scipy**
+<br>
+  To install 
+<br>
+```
+# conda
+conda install -c anaconda scipy
+# or PyPI
+pip install scipy
+```
+<br>
+
+## Project files
+In order to clone the project files and run them on your machine, a number of packages and libraries must be installed 
+<br><br>
 4- how to interact with the project 
 5- Licensing, Authors, Acknowledgements, etc.
